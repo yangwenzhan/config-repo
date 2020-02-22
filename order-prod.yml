@@ -8,4 +8,6 @@ eureka:
 spring:
   application:
     name: order
-
+    
+    
+env :prod
